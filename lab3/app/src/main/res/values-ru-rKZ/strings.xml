@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Третья лаба</string>
+    <string name="Name">Твое имя</string>
+    <string name="Take_a_pic" >Сфотографировать</string>
+</resources>
